@@ -1,2 +1,2 @@
 # hello-world
-This repository is for practising the GitHub Flow.
+Hi my name is Cassidy. I am turning 29 on February 16!
